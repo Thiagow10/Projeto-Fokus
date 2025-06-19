@@ -25,3 +25,16 @@ Estímulo à produtividade com visual agradável
 Totalmente funcional no navegador
 
 # 📷 Preview
+### Seção de Foco
+![Seção de Foco](./imagens/Screenshot1.png)
+
+### Seção de Descanso Curto
+![Seção de Foco](./imagens/Screenshot2.png)
+
+### Seção de Descanso Longo
+![Seção de Foco](./imagens/Screenshot3.png)
+
+# 🌐 Deploy
+O projeto Fokus está disponível online para acesso direto, sem necessidade de instalação local.
+
+🔗 Acesse aqui:
