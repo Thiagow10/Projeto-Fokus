@@ -37,4 +37,4 @@ Totalmente funcional no navegador
 # 🌐 Deploy
 O projeto Fokus está disponível online para acesso direto, sem necessidade de instalação local.
 
-🔗 Acesse aqui:
+🔗 Acesse aqui: https://projeto-fokus-ten-gamma.vercel.app/
